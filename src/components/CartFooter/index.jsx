@@ -11,5 +11,4 @@ const CartFooter = ({ total }) => {
     );
 }
  
-export default CartFooter
-;
+export default CartFooter;
